@@ -1,0 +1,47 @@
+
+img {
+    float: right;
+}
+.Headertext {
+    font-family: Roboto, Charcoal, sans-serif;
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+.Toptext {
+    font-family: Roboto, Charcoal, sans-serif;
+    font-size: 40px;
+    border-bottom-style:solid;
+    border-color: orangered;
+}
+.Normaltext {
+    font-family: Roboto, Charcoal, sans-serif;
+    font-size: 25px;    
+}
+.Midtext {
+    font-family: Roboto, Charcoal, sans-serif;
+    font-size: 30px;
+}
+.Undertext {
+    font-family: Roboto, Charcoal, sans-serif;
+    font-size: 25px;
+    color: rgb(124, 124, 124)
+}
+p {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+img  {
+    margin-right: 75px;
+}
+#aaaa {
+    border-right: 150px solid rgb(243, 243, 243);
+    border-left: 150px solid rgb(243, 243, 243);
+    border-top: 25px solid rgb(243, 243, 243);
+    background: rgb(248, 248, 248);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}
+
+body {
+    margin: 0px;
+}
